@@ -1,6 +1,10 @@
 # app
 
-A new Flutter project.
+flutter ecommerce furniture app ui.
+
+
+
+![alt text](https://github.com/MrtDev7/Flutter-E-Commerce-Furniture-App-UI/blob/main/preview.png)
 
 ## Getting Started
 
